@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Don't go",
+  "base_artist": "CHANMINA",
+  "createdAt": "2025-12-01T02:03:39.119643Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Don't Forget Your Old Shipmate",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/01_Don't_Forget_Your_Old_Shipmate_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Don't Wanna Live Forever (Fifty Shades Darker)",
+      "artist": "ZAYN feat. Taylor Swift",
+      "has_synced": true,
+      "path": "select/02_I_Don't_Wanna_Live_Forever_(Fifty_Shades_Darker)_ZAYN_feat._Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Don’t Wanna Live Forever (Fifty Shades Darker)",
+      "artist": "ZAYN",
+      "has_synced": true,
+      "path": "select/03_I_Don’t_Wanna_Live_Forever_(Fifty_Shades_Darker)_ZAYN.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "(Don't Fear) The Reaper",
+      "artist": "Blue Öyster Cult",
+      "has_synced": true,
+      "path": "select/04_(Don't_Fear)_The_Reaper_Blue_Öyster_Cult.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Don't Ask Me How I Know",
+      "artist": "Bobby Pinson",
+      "has_synced": true,
+      "path": "select/05_Don't_Ask_Me_How_I_Know_Bobby_Pinson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Don't Make Her Look Dumb",
+      "artist": "Maddie & Tae feat. Morgane Stapleton",
+      "has_synced": true,
+      "path": "select/06_Don't_Make_Her_Look_Dumb_Maddie_&_Tae_feat._Morgane_Stapleton.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Don't Make Her Look Dumb",
+      "artist": "Maddie & Tae",
+      "has_synced": true,
+      "path": "select/07_Don't_Make_Her_Look_Dumb_Maddie_&_Tae.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Don't Need You",
+      "artist": "Rameses B feat. Laura Brehm",
+      "has_synced": true,
+      "path": "select/08_Don't_Need_You_Rameses_B_feat._Laura_Brehm.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Don't Need You",
+      "artist": "Rameses B",
+      "has_synced": true,
+      "path": "select/09_Don't_Need_You_Rameses_B.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Don't Stand So Close To Me",
+      "artist": "The Police",
+      "has_synced": true,
+      "path": "select/10_Don't_Stand_So_Close_To_Me_The_Police.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Don't Start Now",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/11_Don't_Start_Now_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Don't Stop Believin'",
+      "artist": "Journey",
+      "has_synced": true,
+      "path": "select/12_Don't_Stop_Believin'_Journey.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Don't Worry",
+      "artist": "Madcon feat. Ray Dalton",
+      "has_synced": true,
+      "path": "select/13_Don't_Worry_Madcon_feat._Ray_Dalton.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Don't Ya",
+      "artist": "Brett Eldredge",
+      "has_synced": true,
+      "path": "select/14_Don't_Ya_Brett_Eldredge.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Don't You (Forget About Me)",
+      "artist": "Simple Minds",
+      "has_synced": true,
+      "path": "select/15_Don't_You_(Forget_About_Me)_Simple_Minds.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I Don't Like It, I Love It (Mixed)",
+      "artist": "Flo Rida feat. Robin Thicke & Verdine White",
+      "has_synced": false,
+      "path": "select/16_I_Don't_Like_It,_I_Love_It_(Mixed)_Flo_Rida_feat._Robin_Thicke_&_Verdine_White.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I Don't Wanna Go",
+      "artist": "Alan Walker feat. Julie Bergan",
+      "has_synced": true,
+      "path": "select/17_I_Don't_Wanna_Go_Alan_Walker_feat._Julie_Bergan.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "I Don't Wanna Go",
+      "artist": "Alan Walker;Julie Bergan",
+      "has_synced": true,
+      "path": "select/18_I_Don't_Wanna_Go_Alan_Walker;Julie_Bergan.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Memory I Don't Mess With",
+      "artist": "Lee Brice",
+      "has_synced": true,
+      "path": "select/19_Memory_I_Don't_Mess_With_Lee_Brice.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "She Don't Know",
+      "artist": "Jade Eagleson",
+      "has_synced": true,
+      "path": "select/20_She_Don't_Know_Jade_Eagleson.lrc"
+    },
+    {
+      "id": "petitlyrics",
+      "source": "petitlyrics",
+      "title": "Don't go",
+      "artist": "CHANMINA",
+      "has_synced": false,
+      "path": "select/pl_Don't_go_CHANMINA.txt"
+    }
+  ]
+}
